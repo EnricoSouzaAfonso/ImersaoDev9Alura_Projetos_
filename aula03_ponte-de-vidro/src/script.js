@@ -6,7 +6,7 @@ rodada = 1
     {
       console.log("Rodada:" + rodada)
       
-      escolhaJo = prompt("Nivel:" + rodada +", escolha o buraco de minhoca correto (1,2,3,4)")
+      escolhaJo = prompt("Nivel:" + rodada +", escolha o buraco de negro correto (1,2,3,4)")
       
       if (escolhaJo == "1" || escolhaJo == "2" || escolhaJo == "3" || escolhaJo == "4")
        {
