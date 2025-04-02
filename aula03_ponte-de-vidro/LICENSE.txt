@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
 Copyright (c) 2025 enrico_876 (https://codepen.io/EnricoSouzaAfonso/pen/zxYybdE)
-Fork of an original work Aula03-Arquivo0 (https://codepen.io/profandre/pen/yyLPNEO)
+Fork of an original work Aula03-Arquivo0 (https://codepen.io/profandre/pen/yyLPNEO).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
