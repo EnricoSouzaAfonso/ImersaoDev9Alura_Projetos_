@@ -1,0 +1,68 @@
+body {
+  background: url("https://get.pxhere.com/photo/sky-space-galaxy-night-sky-nasa-nebula-outer-space-astronomy-illustration-universe-starry-sky-all-supernova-emission-nebula-space-travel-astronautics-astronomical-object-constellation-skorpion-ngc-6334-cat-pfote-fog-bear-claw-nebula-1262105.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: "Gabarito", sans-serif;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.logo {
+  width: 80%;
+  max-width: 300px;
+  margin-bottom: 20px;
+  align-self: flex-end;
+}
+
+.logo img {
+  width: 100%;
+  display: block;
+}
+
+h2, p, h1 {
+  color: white;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.titulo h2 {
+  font-size: 30px;
+  margin-bottom: 1.5em;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  text-align: center;
+  padding: 40px 30px;
+  margin: 30px 0;
+  border: 2px solid purple;
+  border-radius: 10px;
+  box-shadow: 0 0 15px blueviolet;
+  width: 90%;
+  max-width: 600px;
+  box-sizing: border-box;
+}
+
+.jogar-btn {
+  padding: 15px 30px;
+  font-size: 18px;
+  color: white;
+  background-color: #943AB0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-weight: bold;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.jogar-btn:hover {
+  background-color: blueviolet;
+}
+
